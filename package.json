@@ -1,0 +1,18 @@
+{
+  "name": "element-text",
+  "version": "1.0.0",
+  "description": "element-text prototype text function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gogs.findhit.com/browser/element-text.git"
+  },
+  "publishConfig": {
+    "registry": "https://sinopia.findhit.com/"
+  },
+  "author": "Gabriel Conceição <gabriel.conceicao@fidnhit.com>",
+  "license": "ISC"
+}
