@@ -1,6 +1,6 @@
 {
   "name": "bp-element-text",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "bp-element-text allows you to gather and set text on dom elements",
   "main": "src/index.js",
   "scripts": {
