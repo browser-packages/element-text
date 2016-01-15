@@ -1,10 +1,11 @@
 {
   "name": "bp-element-text",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "bp-element-text allows you to gather and set text on dom elements",
   "main": "src/index.js",
   "scripts": {
-    "test": "jshint ."
+    "test": "jshint .",
+    "postversion": "git push origin master; git push origin --tags;"
   },
   "repository": {
     "type": "git",
